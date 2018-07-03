@@ -1,0 +1,650 @@
+[
+    {
+      "CityName": "Adana",
+      "Latitude": "37.0000",
+      "Longitude": "35.3213",
+      "Population": "2183167",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Adıyaman",
+      "Latitude": "37.7648",
+      "Longitude": "38.2786",
+      "Population": "602774",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Afyonkarahisar",
+      "Latitude": "38.7507",
+      "Longitude": "30.5567",
+      "Population": "709015",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Ağrı",
+      "Latitude": "39.6269",
+      "Longitude": "43,021,596.0000",
+      "Population": "547210",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Amasya",
+      "Latitude": "40.6499",
+      "Longitude": "35.8353",
+      "Population": "322167",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Ankara",
+      "Latitude": "39.9208",
+      "Longitude": "32.8541",
+      "Population": "5270575",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Antalya",
+      "Latitude": "36.8841",
+      "Longitude": "30.7056",
+      "Population": "2288456",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Artvin",
+      "Latitude": "41.1828",
+      "Longitude": "41.8183",
+      "Population": "168370",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Aydın",
+      "Latitude": "37.8560",
+      "Longitude": "27.8416",
+      "Population": "1053506",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Balıkesir",
+      "Latitude": "39.6484",
+      "Longitude": "27.8826",
+      "Population": "1186688",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bilecik",
+      "Latitude": "40.0567",
+      "Longitude": "30.0665",
+      "Population": "212361",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bingöl",
+      "Latitude": "39.0626",
+      "Longitude": "40.7696",
+      "Population": "267184",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bitlis",
+      "Latitude": "38.3938",
+      "Longitude": "42.1232",
+      "Population": "267184",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bolu",
+      "Latitude": "40.5760",
+      "Longitude": "31.5788",
+      "Population": "291095",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Burdur",
+      "Latitude": "37.4613",
+      "Longitude": "30.0665",
+      "Population": "258339",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bursa",
+      "Latitude": "40.2669",
+      "Longitude": "29.0634",
+      "Population": "2842547",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Çanakkale",
+      "Latitude": "40.1553",
+      "Longitude": "26.4142",
+      "Population": "513341",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Çankırı",
+      "Latitude": "40.6013",
+      "Longitude": "33.6134",
+      "Population": "180945",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Çorum",
+      "Latitude": "40.5506",
+      "Longitude": "34.9556",
+      "Population": "525180",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Denizli",
+      "Latitude": "37.7765",
+      "Longitude": "29.0864",
+      "Population": "993442",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Diyarbakır",
+      "Latitude": "37.9144",
+      "Longitude": "40.2306",
+      "Population": "1654196",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Edirne",
+      "Latitude": "41.6818",
+      "Longitude": "26.5623",
+      "Population": "402537",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Elâzığ",
+      "Latitude": "38.6810",
+      "Longitude": "39.2264",
+      "Population": "574304",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Erzincan",
+      "Latitude": "39.7500",
+      "Longitude": "39.5000",
+      "Population": "222918",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Erzurum",
+      "Latitude": "39.9000",
+      "Longitude": "41.2700",
+      "Population": "762321",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Eskişehir",
+      "Latitude": "39.7767",
+      "Longitude": "30.5206",
+      "Population": "826716",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Gaziantep",
+      "Latitude": "37.0662",
+      "Longitude": "37.3833",
+      "Population": "1931836",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Giresun",
+      "Latitude": "40.9128",
+      "Longitude": "38.3895",
+      "Population": "426686",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Gümüşhane",
+      "Latitude": "40.4386",
+      "Longitude": "39.5086",
+      "Population": "151449",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Hakkâri",
+      "Latitude": "37.5833",
+      "Longitude": "43.7333",
+      "Population": "278775",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Hatay",
+      "Latitude": "36.4018",
+      "Longitude": "36.3498",
+      "Population": "1533507",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Isparta",
+      "Latitude": "37.7648",
+      "Longitude": "30.5566",
+      "Population": "421766",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Mersin",
+      "Latitude": "36.8000",
+      "Longitude": "34.6333",
+      "Population": "1745221",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "İstanbul",
+      "Latitude": "41.0053",
+      "Longitude": "28.9770",
+      "Population": "14657434",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "İzmir",
+      "Latitude": "38.4189",
+      "Longitude": "27.1287",
+      "Population": "4168415",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kars",
+      "Latitude": "40.6167",
+      "Longitude": "43.1000",
+      "Population": "292660",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kastamonu",
+      "Latitude": "41.3887",
+      "Longitude": "33.7827",
+      "Population": "372633",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kayseri",
+      "Latitude": "38.7312",
+      "Longitude": "35.4787",
+      "Population": "1341056",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kırklareli",
+      "Latitude": "41.7333",
+      "Longitude": "27.2167",
+      "Population": "346973",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kırşehir",
+      "Latitude": "39.1425",
+      "Longitude": "34.1709",
+      "Population": "225562",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kocaeli",
+      "Latitude": "40.8533",
+      "Longitude": "29.8815",
+      "Population": "1780055",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Konya",
+      "Latitude": "37.8667",
+      "Longitude": "32.4833",
+      "Population": "2130544",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kütahya",
+      "Latitude": "39.4167",
+      "Longitude": "29.9833",
+      "Population": "571463",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Malatya",
+      "Latitude": "38.3552",
+      "Longitude": "38.3095",
+      "Population": "772904",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Manisa",
+      "Latitude": "38.6191",
+      "Longitude": "27.4289",
+      "Population": "1380366",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kahramanmaraş",
+      "Latitude": "37.5858",
+      "Longitude": "36.9371",
+      "Population": "1096610",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Mardin",
+      "Latitude": "37.3212",
+      "Longitude": "40.7245",
+      "Population": "796591",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Muğla",
+      "Latitude": "37.2153",
+      "Longitude": "28.3636",
+      "Population": "908877",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Muş",
+      "Latitude": "38.9462",
+      "Longitude": "41.7539",
+      "Population": "408728",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Nevşehir",
+      "Latitude": "38.6939",
+      "Longitude": "34.6857",
+      "Population": "286767",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Niğde",
+      "Latitude": "37.9667",
+      "Longitude": "34.6833",
+      "Population": "346114",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Ordu",
+      "Latitude": "40.9839",
+      "Longitude": "37.8764",
+      "Population": "728949",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Rize",
+      "Latitude": "41.0201",
+      "Longitude": "40.5234",
+      "Population": "328979",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Sakarya",
+      "Latitude": "40.6940",
+      "Longitude": "30.4358",
+      "Population": "953181",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Samsun",
+      "Latitude": "41.2928",
+      "Longitude": "36.3313",
+      "Population": "1279884",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Siirt",
+      "Latitude": "37.9333",
+      "Longitude": "41.9500",
+      "Population": "320351",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Sinop",
+      "Latitude": "42.0231",
+      "Longitude": "35.1531",
+      "Population": "204133",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Sivas",
+      "Latitude": "39.7477",
+      "Longitude": "37.0179",
+      "Population": "618617",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Tekirdağ",
+      "Latitude": "40.9833",
+      "Longitude": "27.5167",
+      "Population": "937910",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Tokat",
+      "Latitude": "40.3167",
+      "Longitude": "36.5500",
+      "Population": "593990",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Trabzon",
+      "Latitude": "41.0015",
+      "Longitude": "39.7178",
+      "Population": "768417",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Tunceli",
+      "Latitude": "39.3074",
+      "Longitude": "39.4388",
+      "Population": "86076",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Şanlıurfa",
+      "Latitude": "37.1591",
+      "Longitude": "38.7969",
+      "Population": "1892320",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Uşak",
+      "Latitude": "38.6823",
+      "Longitude": "29.4082",
+      "Population": "353048",
+      "Region": "Ege",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Van",
+      "Latitude": "38.4891",
+      "Longitude": "43.4089",
+      "Population": "1096397",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Yozgat",
+      "Latitude": "39.8181",
+      "Longitude": "34.8147",
+      "Population": "419440",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Zonguldak",
+      "Latitude": "41.4564",
+      "Longitude": "31.7987",
+      "Population": "595907",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Aksaray",
+      "Latitude": "38.3687",
+      "Longitude": "34.0370",
+      "Population": "386514",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bayburt",
+      "Latitude": "40.2552",
+      "Longitude": "40.2249",
+      "Population": "78550",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Karaman",
+      "Latitude": "37.1759",
+      "Longitude": "33.2287",
+      "Population": "242196",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kırıkkale",
+      "Latitude": "39.8468",
+      "Longitude": "33.5153",
+      "Population": "270271",
+      "Region": "İç Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Batman",
+      "Latitude": "37.8812",
+      "Longitude": "41.1351",
+      "Population": "566633",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Şırnak",
+      "Latitude": "37.4187",
+      "Longitude": "42.4918",
+      "Population": "490184",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Bartın",
+      "Latitude": "41.5811",
+      "Longitude": "32.4610",
+      "Population": "190708",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Ardahan",
+      "Latitude": "41.1105",
+      "Longitude": "42.7022",
+      "Population": "99265",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Iğdır",
+      "Latitude": "39.8880",
+      "Longitude": "44.0048",
+      "Population": "192435",
+      "Region": "Doğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Yalova",
+      "Latitude": "40.6500",
+      "Longitude": "29.2667",
+      "Population": "233009",
+      "Region": "Marmara",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Karabük",
+      "Latitude": "41.2061",
+      "Longitude": "32.6204",
+      "Population": "236978",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Kilis",
+      "Latitude": "36.7184",
+      "Longitude": "37.1212",
+      "Population": "130655",
+      "Region": "Güneydoğu Anadolu",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Osmaniye",
+      "Latitude": "37.2130",
+      "Longitude": "36.1763",
+      "Population": "512873",
+      "Region": "Akdeniz",
+      "CountryId" : "69"
+    },
+    {
+      "CityName": "Düzce",
+      "Latitude": "40.8438",
+      "Longitude": "31.1565",
+      "Population": "360388",
+      "Region": "Karadeniz",
+      "CountryId" : "69"
+    }
+  ]
