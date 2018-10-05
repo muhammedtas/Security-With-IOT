@@ -7,7 +7,7 @@ used by .net core, ef core, angular 6 and several js, css, framework and also we
 
 # SecurityWithIOT.API
 
-After publishing SPA layer with "ng build --prod" command, you can directly run it by "dotnet watch run" command. Navgate to 'http://localhost:5000/'.
+After publishing SPA layer with "ng build --prod" command, you can directly run it by "dotnet watch run" command from 'http://localhost:5000/' port.
 
 # SecurityWithIOT.SPA
 
