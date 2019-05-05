@@ -42,7 +42,7 @@ namespace SecurityWithIOT.API
             services.AddCors();
             services.Configure<ClaudinarySettings>(_configuration.GetSection("CloudinarySettings"));
             services.AddAutoMapper();
-            services.AddScoped<IAuthRepository,AuthRepository>(); // Session scope u burada tanımlıyoruz.
+            services.AddScoped<IAuthRepository,AuthRepository>(); 
             services.AddScoped<IUser,UserService>();       
             services.AddScoped<IDepartment,DepartmentService>();
             services.AddScoped<ICompany,CompanyService>();
@@ -73,7 +73,7 @@ namespace SecurityWithIOT.API
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, Seed seeder) // , Seed seeder ** SEedlenecek bir şey varsa eklenecek.
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, Seed seeder) 
         {
             if (env.IsDevelopment())
             {
@@ -102,13 +102,13 @@ namespace SecurityWithIOT.API
 
             if (isSeedEnabled)
             {
-            //seeder.SeedCountry();
-            //seeder.SeedCity();
-            seeder.SeedUsers(); // Seedleyeceğimiz bir şey varsa açacağız burayı !!! : 
+            seeder.SeedCountry();
+            seeder.SeedCity();
+            seeder.SeedUsers(); 
             }
             
             app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());
-            // Bunu şimdilik böyle koyduk ancak güvenilir bir sistem olmadı. Her delikten hacklenebilir halde. Burayı sonra revize edeceğiz.
+            
             app.UseAuthentication();
             app.UseMvc(routes =>
             {
@@ -116,7 +116,7 @@ namespace SecurityWithIOT.API
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
-            // Burası da  app.UseMvc(); idi sadece
+            
         }
     }
 }
